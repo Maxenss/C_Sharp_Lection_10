@@ -1,0 +1,7 @@
+C:\Users\Maxim\source\repos\C_Sharp_Lection_10\C_Sharp_Lection_10\bin\Debug\C_Sharp_Lection_10.exe.config
+C:\Users\Maxim\source\repos\C_Sharp_Lection_10\C_Sharp_Lection_10\bin\Debug\C_Sharp_Lection_10.exe
+C:\Users\Maxim\source\repos\C_Sharp_Lection_10\C_Sharp_Lection_10\bin\Debug\C_Sharp_Lection_10.pdb
+C:\Users\Maxim\source\repos\C_Sharp_Lection_10\C_Sharp_Lection_10\obj\Debug\C_Sharp_Lection_10.csprojResolveAssemblyReference.cache
+C:\Users\Maxim\source\repos\C_Sharp_Lection_10\C_Sharp_Lection_10\obj\Debug\C_Sharp_Lection_10.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\source\repos\C_Sharp_Lection_10\C_Sharp_Lection_10\obj\Debug\C_Sharp_Lection_10.exe
+C:\Users\Maxim\source\repos\C_Sharp_Lection_10\C_Sharp_Lection_10\obj\Debug\C_Sharp_Lection_10.pdb
